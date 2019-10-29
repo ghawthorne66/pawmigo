@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Project title
+Staying on Task: a roadmap to completing your projects
 
-You can use the [editor on GitHub](https://github.com/efemar/pawmigo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Motivation
+Every year, countless hours are spent on figuring out and writing down the tasks needed to complete a project, where, instead, this time could be used to executing and completing them.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+StayingOnTask helps users cut down the time needed to create tasks and manage their projects.
 
-### Markdown
+Our first themes are birthday parties and weddings that come with prepopulated tasks for each event
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Tech/framework used
+This app uses MySQL, Node.js, HTML, Javascript, Express, Passport, Handlebars and Sequelizer, EsLint, TravisCI, Materialize, Moment and DotEnv.
 
-```markdown
-Syntax highlighted code block
+## Features
 
-# Header 1
-## Header 2
-### Header 3
+## Deployed Site
 
-- Bulleted
-- List
+App is deployed on Heroku using JawsDB: https://project2-efm-st-cb.herokuapp.com/
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/efemar/pawmigo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Credits
+This project had 4 contributing members. Here are their GitHub links: Elisa: https://github.com/efemar?tab=repositories, Sunny: https://github.com/SunnyTong2019, Greg: ???????  and Alejandro: ??????
