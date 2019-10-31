@@ -15,6 +15,8 @@ import OwnerDashboard from './pages/OwnerDashboard';
 import VetDashboard from './pages/VetDashboard';
 import AboutUs from './pages/AboutUs';
 import Calendar from './components/Calendar';
+import Reviews from './components/Reviews';
+import Intake from './components/Intake';
 
 // Here is if we have an id_token in localStorage
 if(localStorage.getItem("id_token")) {
@@ -33,6 +35,9 @@ ReactDOM.render(
             <Route exact path="/signup" component={Signup} />
             <Route exact path="/aboutus" component={AboutUs} />
             <Route exact path="/calendar" component={Calendar} />
+            <Route exact path="/reviews" component={Reviews} />
+            <Route exact path="/intake" component={Intake} />
+
 
         </div>
     </Router>
