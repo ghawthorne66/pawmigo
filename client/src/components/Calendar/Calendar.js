@@ -7,10 +7,10 @@ import './style.css';
 class Calendar extends Component {
     
     componentDidMount() {
-        const head = document.querySelector('head');
-        const script = document.createElement('script');
-        script.setAttribute('src', 'https://assets.calendly.com/assets/external/widget.js')
-        head.appendChild(script);
+        // const head = document.querySelector('head');
+        // const script = document.createElement('script');
+        // script.setAttribute('src', 'https://assets.calendly.com/assets/external/widget.js')
+        // head.appendChild(script);
     }
 
     render() {
