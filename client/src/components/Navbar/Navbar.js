@@ -65,6 +65,10 @@ class Navbar extends Component {
                     <li className="nav-item">
                         <Link className="nav-link" to="/aboutus">About Us</Link>
                     </li>
+                    <li className="nav-item">
+                        {/* this is not using the Link component to logout or user and then refresh the application to the start */}
+                        <Link className="nav-link" to="/calendar" >Calendar</Link>
+                    </li>
                 </ul>
             );
         }
